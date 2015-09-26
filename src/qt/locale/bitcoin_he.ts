@@ -2236,8 +2236,8 @@ Address: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 32321 or testnet: 42321)</source>
-        <translation>האזן לחיבורים ב&lt;פורט&gt; (ברירת מחדל: 32321 או ברשת הבדיקה: 42321)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 32421 or testnet: 42421)</source>
+        <translation>האזן לחיבורים ב&lt;פורט&gt; (ברירת מחדל: 32421 או ברשת הבדיקה: 42421)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2271,8 +2271,8 @@ Address: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 32322 or testnet: 42322)</source>
-        <translation>האזן לחיבורי JSON-RPC ב- &lt;port&gt; (ברירת מחדל: 32322 או רשת בדיקה: 42322)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 32422 or testnet: 42422)</source>
+        <translation>האזן לחיבורי JSON-RPC ב- &lt;port&gt; (ברירת מחדל: 32422 או רשת בדיקה: 42422)</translation>
     </message>
     <message>
         <location line="+37"/>
